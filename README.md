@@ -43,6 +43,7 @@ against any real system or service.
 course-1-deep-learning/   lab-00 … lab-11
 course-2-generative-ai/   lab-00 … lab-16
 course-3-ai-agents/       lab-00 … lab-11
+ml/                       Machine Learning End To End: one notebook per lesson (see ml/README.md)
 ```
 
 ## Source and updates
@@ -54,4 +55,4 @@ rather than a pull request.
 ## License
 
 [CC BY-NC-SA 4.0](LICENSE) — free to use, share and adapt for non-commercial purposes with
-attribution, under the same license. The courses are free; these labs should stay free.
+attribution, under the same license. The notebooks themselves are free to open and run.
