@@ -37,6 +37,12 @@ self-contained toy application built inside the notebook, using well-documented 
 techniques, in order to then defend it and measure the reduction. They contain no exploit
 against any real system or service.
 
+## Optional Advanced Discussion notebooks
+
+Beside the labs, each course folder holds optional, ungraded notebooks (`ext-*` in Course 1, `adv-*` in Courses 2 and 3).
+Each one reproduces the experiments behind an "Advanced Discussion" section of a chapter: the code is short, seeded and runs on
+the free Colab tier (no paid service; a few download a small public dataset or model). They are not needed for any certificate.
+
 ## Repository layout
 
 ```
